@@ -1,12 +1,12 @@
-<h1 align="left">Hey</h1>
+<h1 align="left">Hey 👋</h1>
 
 ###
 
-<p align="left">My name is Edvin and I'm a frontend developer from Sweden</p>
+<p align="left">My name is Edvin and I'm a frontend developer from Sweden.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
