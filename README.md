@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Edvin and I'm a frontend developer from Sweden.</p>
+<p align="left">My name is Edvin and I'm a frontend developer.</p>
 
 ###
 
