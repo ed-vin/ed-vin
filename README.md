@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Edvin and I'm a frontend developer.</p>
+<p align="left">I'm a full-stack web developer with a focus on React for frontend and Node.js/Express for backend. I have experience working with MySQL and PostgreSQL databases</p>
 
 ###
 
