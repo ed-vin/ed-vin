@@ -9,7 +9,7 @@
 ## Side Project: Music Plugins Website
 
 I'm currently working on a personal website where I share and showcase music plugins I develop.  
-[Check it out here!](https://www.dundora.com)
+[dundora audio](https://www.dundora.com)
 
 <h2 align="left">Tech Stack</h2>
 
